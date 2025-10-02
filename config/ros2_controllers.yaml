@@ -31,14 +31,14 @@ fr3_arm_controller:
       - position
       - velocity
     gains:
-      fr3_joint_linear: {p: 300.0, i: 0.0, d: 10.0}
-      fr3_joint1:       {p: 300.0, i: 0.0, d: 10.0}
-      fr3_joint2:       {p: 300.0, i: 0.0, d: 10.0}
-      fr3_joint3:       {p: 300.0, i: 0.0, d: 10.0}
-      fr3_joint4:       {p: 300.0, i: 0.0, d: 10.0}
-      fr3_joint5:       {p: 300.0, i: 0.0, d: 10.0}
-      fr3_joint6:       {p: 300.0, i: 0.0, d: 10.0}
-      fr3_joint7:       {p: 300.0, i: 0.0, d: 10.0}
+      fr3_joint_linear: {p: 1500.0, i: 0.0, d: 50.0}
+      fr3_joint1:       {p: 1500.0, i: 0.0, d: 50.0}
+      fr3_joint2:       {p: 1500.0, i: 0.0, d: 50.0}
+      fr3_joint3:       {p: 1500.0, i: 0.0, d: 50.0}
+      fr3_joint4:       {p: 1500.0, i: 0.0, d: 50.0}
+      fr3_joint5:       {p: 1500.0, i: 0.0, d: 50.0}
+      fr3_joint6:       {p: 1500.0, i: 0.0, d: 50.0}
+      fr3_joint7:       {p: 1500.0, i: 0.0, d: 50.0}
 
 
 hand_controller:
